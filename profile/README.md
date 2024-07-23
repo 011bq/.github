@@ -32,8 +32,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/011bq"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="011bq" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webrication&show_icons=true&locale=en&layout=compact" alt="webrication" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashank-011bq&show_icons=true&locale=en&layout=compact&include_orgs=true" alt="webrication" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webrication&show_icons=true&locale=en" alt="webrication" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashank-011bq&show_icons=true&locale=en&include_orgs=true" alt="webrication" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webrication&" alt="webrication" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-011bq&include_orgs=true" alt="webrication" /></p>
