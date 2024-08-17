@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webrication&label=Profile%20views&color=0e75b6&style=flat" alt="webrication" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webrication" alt="webrication" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashank-011bq" alt="webrication" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/011bq_official" target="blank"><img src="https://img.shields.io/twitter/follow/011bq_official?logo=twitter&style=for-the-badge" alt="011bq_official" /></a> </p>
 
