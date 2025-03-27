@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashank-011bq&show_icons=true&locale=en&include_orgs=true" alt="webrication" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-011bq&include_orgs=true" alt="webrication" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shashank-011bq" alt="GitHub Streak" /></a>
